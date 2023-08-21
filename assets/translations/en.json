@@ -12,5 +12,8 @@
   "order": {
     "one": "order",
     "other": "orders"
+  },
+  "named_args": {
+    "test_string": "String {firstArg} named args {secondArg}"
   }
 }
