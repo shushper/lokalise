@@ -8,5 +8,13 @@
     "title": "Second Screen",
     "subtitle": "Second subtitle",
     "renamed_key": "Go to main screen"
+  },
+  "order": {
+    "zero": "orders",
+    "one": "order",
+    "two": "orders",
+    "few": "orders",
+    "many": "orders",
+    "other": "orders"
   }
 }
