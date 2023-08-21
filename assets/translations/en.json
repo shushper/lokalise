@@ -2,11 +2,11 @@
   "main": {
     "title": "Main Screen",
     "subtitle": "Main subtitle",
-    "button": "Go to second screen"
+    "renamed_key": "Go to second screen"
   },
   "second": {
     "title": "Second Screen",
     "subtitle": "Second subtitle",
-    "button": "Go to main screen"
+    "renamed_key": "Go to main screen"
   }
 }
