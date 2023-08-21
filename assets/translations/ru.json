@@ -14,5 +14,8 @@
     "few": "Заказа",
     "many": "Заказов",
     "other": "Заказов"
+  },
+  "named_args": {
+    "test_string": "Строка {firstArg} именованные аргументы {secondArg}"
   }
 }
