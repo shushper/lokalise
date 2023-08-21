@@ -1,7 +1,7 @@
 {
-  "main": {
-    "title": "Main Screen",
-    "subtitle": "Main subtitle",
-    "button": "Go to second screen"
-  }
+    "main": {
+        "title": "Main Screen",
+        "subtitle": "Main subtitle",
+        "button": "Go to second screen"
+    }
 }
